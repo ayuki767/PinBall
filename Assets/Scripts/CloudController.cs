@@ -1,14 +1,14 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class CloudController : MonoBehaviour
 {        
-    float minimum = 1.0f;  // Å¬ƒTƒCƒY
+    float minimum = 1.0f;  // æœ€å°ã‚µã‚¤ã‚º
 
-    float magSpeed = 10.0f; // Šg‘åk¬ƒXƒs[ƒh
+    float magSpeed = 10.0f; // æ‹¡å¤§ç¸®å°ã‚¹ãƒ”ãƒ¼ãƒ‰
 
-    float magnification = 0.07f;@// Šg‘å—¦
+    float magnification = 0.07f;ã€€// æ‹¡å¤§ç‡
     // Start is called before the first frame update
     void Start()
     {

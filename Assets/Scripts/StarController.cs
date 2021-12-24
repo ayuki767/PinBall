@@ -1,10 +1,10 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class StarController : MonoBehaviour
 {
-    float rotSpeed = 0.5f; // ‰ñ“]‘¬“x
+    float rotSpeed = 0.5f; // å›žè»¢é€Ÿåº¦
 
     // Start is called before the first frame update
     void Start()
